@@ -13,9 +13,10 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "better-sqlite3": "^12.5.0",
+    "next": "^16.0.7",
     "react": "^19.2.1",
-    "react-dom": "^19.2.1",
-    "next": "^16.0.7"
+    "react-dom": "^19.2.1"
   },
   "devDependencies": {
     "eslint": "^9.39.1",
